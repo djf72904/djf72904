@@ -9,18 +9,7 @@ Only repos by me ([djf72904](https://github.com/djf72904)) or ones that I have w
   #### Notes 
   - Only ever got to creating blackjack and even that wasn't fully completed  
   - Last update was in March of 2022  
-  - Mainly used to learn how to use git  
-
-
-## Summer Research Projects 
-### AntiCopyPaster
-  **GitHub Repository:** [anti-copy-paster-dataset](https://github.com/refactorings/anti-copy-paster-dataset)  
-  **Project Description:** Summer Research for 2024 Pinnacle Scholar Program at Stevens Institute of Technology with Professor Eman AlOmar. Main job was to help test the AntiCopyPaster plugin and update         website with results of those tests.   
-  #### Notes 
-  - Done through Stevens Institute of Technology Pinnacle Scholar Program  
-  - 10-week program over the summer of 2024  
-  - Template was used for website  
-   
+  - Mainly used to learn how to use git   
 
 ## University Projects
 ### GTFS_File_Acquisition
@@ -32,14 +21,22 @@ Only repos by me ([djf72904](https://github.com/djf72904)) or ones that I have w
     
 ### TypeBeat
   **GitHub Repository:** [CS-546-Final_Project](https://github.com/djf72904/CS-546-Final-Project)  
-  **Project Description:** Final Project repo for CS-546 - Web Programming I at Stevens Institute of Technology. Typing test/practice website that gives songs with beats-per-minute that match the words-per-minute of the user  
+  **Project Description:** Final Project repo for CS-546 - Web Programming I at Stevens Institute of Technology. Typing test/practice website that gives songs with beats-per-minute that match the words-per-minute of the user.    
   #### Notes 
   - Fall semester of 2024 with Professor Patrick Hill at Stevens Institute of Technology
+  - Group project
+
+### CampusBazzar 
+  **GitHub Repository:** [CS-546-Final_Project](https://github.com/djf72904/CS-554-Final-Project)  
+  **Project Description:** Final Project repo for CS-554 - Web Programming II at Stevens Institute of Technology. Online store that can be used by students to buy and sell college materials  integrating school credits.  
+  #### Notes 
+  - Spring semester of 2025 with Professor Patrick Hill at Stevens Institute of Technology
   - Group project
   
 ## University Coursework
 *All private due to academic integrity concerns.*  
 *Therefore, descriptions and notes are not needed and organization takes priority* 
+
 ### Year 1
 #### <ins>Fall 2022</ins>
 Total Credits: 17
@@ -73,6 +70,8 @@ Total Credits: 20
 - [CAL-105: Knowledge, Nature, Culture](google.com)
 - [PIN-184: Pinnacle Scholar Seminar II](google.com)
 
+---
+
 ### Year 2
 #### <ins>Fall 2023</ins>
 Total Credits: 17
@@ -102,6 +101,7 @@ Total Credits: 16
 ##### Math Courses
 - [MA-232: Linear Algebra](https://github.com/djf72904/MA-232)
 
+---
 
 ### Year 3
 #### <ins>Fall 2024</ins>
@@ -125,6 +125,7 @@ Total Credits: 18
 - CS-573: Fundamentals of CyberSecuirty
 - [CS-583: Deep Learning](https://github.com/djf72904/CS-583)
 
+---
 
 ### Year 4
 #### <ins>Fall 2025</ins>
@@ -138,8 +139,17 @@ Total Credits: 12
 ##### Computer Engineering Courses
 - [CPE-555: Real-Time and Embedded Systems](https://github.com/djf72904/CPE-555)  
 
-#### <ins>Spring 2025</ins>
-Total Credits: N/A
+#### <ins>Spring 2026</ins>
+Total Credits: 12
+
+##### CS Courses
+- [CS-513: Knowledge Disc. & Data Mining](https://github.com/djf72904/CS-513)  
+- [CS-521: TCP/IP Networking](https://github.com/djf72904/CS-521)  
+- [CS-810: Automated Techniques for Security. Privacy & Reliability](https://github.com/djf72904/CS-810)  
+
+##### Computer Engineering Courses
+- [CPE-556: Comp Princ. for Mobile & Embedded Systems](https://github.com/djf72904/CPE-556)  
+
 
 
 
