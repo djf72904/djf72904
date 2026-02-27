@@ -145,7 +145,7 @@ Total Credits: 12
 ##### CS Courses
 - [CS-513: Knowledge Disc. & Data Mining](https://github.com/djf72904/CS-513)  
 - [CS-521: TCP/IP Networking](https://github.com/djf72904/CS-521)  
-- [CS-810: Automated Techniques for Security. Privacy & Reliability](https://github.com/djf72904/CS-810)  
+- [CS-810: Automated Techniques for Security, Privacy, & Reliability](https://github.com/djf72904/CS-810)  
 
 ##### Computer Engineering Courses
 - [CPE-556: Comp Princ. for Mobile & Embedded Systems](https://github.com/djf72904/CPE-556)  
