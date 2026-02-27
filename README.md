@@ -37,38 +37,52 @@ Only repos by me ([djf72904](https://github.com/djf72904)) or ones that I have w
 *All private due to academic integrity concerns.*  
 *Therefore, descriptions and notes are not needed and organization takes priority* 
 
-### Year 1
-#### <ins>Fall 2022</ins>
-Total Credits: 17
+### Year 4
+#### <ins>Fall 2025</ins>
+Total Credits: 12
 
 ##### CS Courses
-- [CS-101: Research and Entrepreneurship in Computing](google.com)
-- [CS-115: Introduction to Computer Science](https://github.com/djf72904/CS-115)
-##### Math/Science Courses
-- [MA-125: Vectors and Matrices](google.com)
-- [MA-126: Multivariable Calculus I](google.com)
-- [PEP-111: Mechanics](google.com)
+- [CS-511: Concurrent Programming](https://github.com/djf72904/CS-511)  
+- [CS-522: Mobile Systems and Applications](https://github.com/djf72904/CS-522)  
+- [CS-558: Computer Vision](https://github.com/djf72904/CS-558)  
 
-##### Other Courses
-- [CAL-103: Writing and Communications Collqm](google.com)
-- [EE-181: Seminar in Electrical Engr.](google.com)
-- [PIN-183: Pinnacle Scholar Seminar I](google.com)
+##### Computer Engineering Courses
+- [CPE-555: Real-Time and Embedded Systems](https://github.com/djf72904/CPE-555)  
 
-#### <ins>Spring 2023</ins>
-Total Credits: 20
+#### <ins>Spring 2026</ins>
+Total Credits: 12
 
 ##### CS Courses
-- [CS-135: Discrete Structures](google.com)
-- [CS-284: Data Structures](google.com)
-##### Math/Science Courses
-- [MA-222: Probability and Statistics](google.com)
-- [PEP-112: Electricity and Magnetism](google.com)
-- [PEP-187: Seminar in Physics](google.com)
-- [PEP-221: Physics Lab I for Scientists](google.com)
+- [CS-513: Knowledge Disc. & Data Mining](https://github.com/djf72904/CS-513)  
+- [CS-521: TCP/IP Networking](https://github.com/djf72904/CS-521)  
+- [CS-810: Automated Techniques for Security, Privacy, & Reliability](https://github.com/djf72904/CS-810)  
 
-##### Other Courses
-- [CAL-105: Knowledge, Nature, Culture](google.com)
-- [PIN-184: Pinnacle Scholar Seminar II](google.com)
+##### Computer Engineering Courses
+- [CPE-556: Comp Princ. for Mobile & Embedded Systems](https://github.com/djf72904/CPE-556)  
+
+---
+
+### Year 3
+#### <ins>Fall 2024</ins>
+Total Credits: 16
+
+##### CS Courses
+- [CS-334: Theory of Computation](https://github.com/djf72904/CS-334)
+- [CS-396: Security, Privacy, and Society](https://github.com/djf72904/CS-396)
+- CS-423: Senior Design I
+- [CS-546: Web Programming](https://github.com/djf72904/CS-546)
+- [CS-559: Machine Learning: Fund & Apps](https://github.com/djf72904/CS-559)
+
+#### <ins>Spring 2025</ins>
+Total Credits: 18
+
+##### CS Courses
+- CS-424: Senior Design II
+- [CS-524: Introduction to Cloud Computing](https://github.com/djf72904/CS-524)
+- [CS-545: Human-Computer Interaction](https://github.com/djf72904/CS-545)
+- [CS-554: Web Programming II](https://github.com/djf72904/CS-554)
+- CS-573: Fundamentals of CyberSecuirty
+- [CS-583: Deep Learning](https://github.com/djf72904/CS-583)  
 
 ---
 
@@ -103,54 +117,35 @@ Total Credits: 16
 
 ---
 
-### Year 3
-#### <ins>Fall 2024</ins>
-Total Credits: 16
+### Year 1
+#### <ins>Fall 2022</ins>
+Total Credits: 17
 
 ##### CS Courses
-- [CS-334: Theory of Computation](https://github.com/djf72904/CS-334)
-- [CS-396: Security, Privacy, and Society](https://github.com/djf72904/CS-396)
-- CS-423: Senior Design I
-- [CS-546: Web Programming](https://github.com/djf72904/CS-546)
-- [CS-559: Machine Learning: Fund & Apps](https://github.com/djf72904/CS-559)
+- [CS-101: Research and Entrepreneurship in Computing](google.com)
+- [CS-115: Introduction to Computer Science](https://github.com/djf72904/CS-115)
+##### Math/Science Courses
+- [MA-125: Vectors and Matrices](google.com)
+- [MA-126: Multivariable Calculus I](google.com)
+- [PEP-111: Mechanics](google.com)
 
-#### <ins>Spring 2025</ins>
-Total Credits: 18
+##### Other Courses
+- [CAL-103: Writing and Communications Collqm](google.com)
+- [EE-181: Seminar in Electrical Engr.](google.com)
+- [PIN-183: Pinnacle Scholar Seminar I](google.com)
 
-##### CS Courses
-- CS-424: Senior Design II
-- [CS-524: Introduction to Cloud Computing](https://github.com/djf72904/CS-524)
-- [CS-545: Human-Computer Interaction](https://github.com/djf72904/CS-545)
-- [CS-554: Web Programming II](https://github.com/djf72904/CS-554)
-- CS-573: Fundamentals of CyberSecuirty
-- [CS-583: Deep Learning](https://github.com/djf72904/CS-583)
-
----
-
-### Year 4
-#### <ins>Fall 2025</ins>
-Total Credits: 12
+#### <ins>Spring 2023</ins>
+Total Credits: 20
 
 ##### CS Courses
-- [CS-511: Concurrent Programming](https://github.com/djf72904/CS-511)  
-- [CS-522: Mobile Systems and Applications](https://github.com/djf72904/CS-522)  
-- [CS-558: Computer Vision](https://github.com/djf72904/CS-558)  
+- [CS-135: Discrete Structures](google.com)
+- [CS-284: Data Structures](google.com)
+##### Math/Science Courses
+- [MA-222: Probability and Statistics](google.com)
+- [PEP-112: Electricity and Magnetism](google.com)
+- [PEP-187: Seminar in Physics](google.com)
+- [PEP-221: Physics Lab I for Scientists](google.com)
 
-##### Computer Engineering Courses
-- [CPE-555: Real-Time and Embedded Systems](https://github.com/djf72904/CPE-555)  
-
-#### <ins>Spring 2026</ins>
-Total Credits: 12
-
-##### CS Courses
-- [CS-513: Knowledge Disc. & Data Mining](https://github.com/djf72904/CS-513)  
-- [CS-521: TCP/IP Networking](https://github.com/djf72904/CS-521)  
-- [CS-810: Automated Techniques for Security, Privacy, & Reliability](https://github.com/djf72904/CS-810)  
-
-##### Computer Engineering Courses
-- [CPE-556: Comp Princ. for Mobile & Embedded Systems](https://github.com/djf72904/CPE-556)  
-
-
-
-
-
+##### Other Courses
+- [CAL-105: Knowledge, Nature, Culture](google.com)
+- [PIN-184: Pinnacle Scholar Seminar II](google.com)  
